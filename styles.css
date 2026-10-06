@@ -1,0 +1,33 @@
+:root {
+  --ink: #1c1917;
+  --muted: #57534e;
+  --line: #e7e5e4;
+  --bg: #fafaf9;
+  --card: #fff;
+  --accent: #3f6212;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font: 18px/1.55 Georgia, "Iowan Old Style", serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+header, main, footer { max-width: 42rem; margin: 0 auto; padding: 1.25rem 1.1rem; }
+header { border-bottom: 1px solid var(--line); }
+a { color: var(--accent); }
+nav a { margin-right: 1rem; }
+h1 { font-size: 2rem; line-height: 1.15; margin: 0.4rem 0 0.6rem; }
+h2 { font-size: 1.35rem; margin-top: 1.8rem; }
+.lede { font-size: 1.15rem; }
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  padding: 0.9rem 1rem;
+  margin: 0.8rem 0;
+}
+.phone { font-variant-numeric: tabular-nums; font-weight: 700; }
+.note { color: var(--muted); font-size: 0.95rem; }
+ol.steps { padding-left: 1.2rem; }
+footer { border-top: 1px solid var(--line); color: var(--muted); font-size: 0.95rem; }
