@@ -1,6 +1,6 @@
-# Outreach — Post Or Panel
+# Outreach — Post Or Panel (Kansas City)
 
-Gate: no email until https://usabandit33.github.io/post-or-panel/ returns HTTP 200.
+Gate: Pages HTTP 200 confirmed 2026-10-15.
 From: kaelnventures@gmail.com · Matt M.
 Phone + domain in every email. No money in T1–T4.
 
@@ -9,7 +9,9 @@ Href: https://usabandit33.github.io/post-or-panel/
 
 | Company | Phone | Domain | Email | T1 | T2 | T3 | T4 |
 |---------|-------|--------|-------|----|----|----|----|
-| Kansas City Fence Company | (913) 484-3187 | kansascityfenceco.com | kansascityfencecompany@gmail.com | hold | | | |
-| Slagle Fence | (816) 863-6159 | slaglefence.com | sales@slaglefence.com | hold | | | |
+| Kansas City Fence Company | (913) 484-3187 | kansascityfenceco.com | kansascityfencecompany@gmail.com | sent 2026-10-15 | | | |
+| Slagle Fence | (816) 863-6159 | slaglefence.com | sales@slaglefence.com | sent 2026-10-15 | | | |
 
-Phone-only until an inbox is on the same public page: RKC, Perfect Fence, Superior Fence & Rail of Kansas City.
+Phone-only (no T1): RKC Wood Care Pros, Perfect Fence Company, Superior Fence & Rail of Kansas City.
+
+T2 due ~2026-10-18/19.
